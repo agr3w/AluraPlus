@@ -6,7 +6,7 @@ Projeto do curso de HTML e CSS da Alura, sem modificações pessoais apenas com 
 | -------------  | --- |
 | :sparkles: Nome        | **AluraPlus**
 | :label: Tecnologias | HTML e CSS
-| :rocket: URL         | https://agr3w.github.io/AluraPlus/
+| :rocket: URL         | https://alura-plus-agr3w.vercel.app
 | :fire: Curso     | SASS: CSS sintaticamente espetacular 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
